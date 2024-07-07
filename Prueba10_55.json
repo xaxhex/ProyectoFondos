@@ -1,10 +1,16 @@
 [
-  {
-    "name": "Alonso",
-    "author": "unknown",
-    "url": "https://raw.githubusercontent.com/xaxhex/ProyectoFondos/main/Alonso%20China%20GP%202024.jpg?token=GHSAT0AAAAAACURDIWDDTCDPVGXPSWXTJECZUKLKVQ"
-    "dimensions": "3200x2560",
-    "copyright": "Unknown",
-    "collections": "landscapes"
-  }
+	{
+		"name": "ShotA",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+		"collections": "featured,landscapes,people"
+    	},
+	{
+		"name": "ShotB",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/xaxhex/ProyectoFondos/main/Alonso%20China%20GP%202024.jpg?token=GHSAT0AAAAAACURDIWDI24OF4JC53ZM4XUAZUKLOIQ",
+		"dimensions": "3200x2560",
+		"collections": "people,city",
+		"downloadable": false
+	}
 ]  
