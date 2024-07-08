@@ -24,5 +24,42 @@
 		"dimensions": "3200x2560",
 		"collections": "Alonso",
 		"downloadable": false
-	}
+	},
+	{
+		"name": "Imola GP",
+		"author": "Res-Proyect",
+		"url": "https://raw.githubusercontent.com/xaxhex/ProyectoFondos/main/Alonso%20Imola%202024.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Credits to Res-Proyect",
+		"collections": "Alonso"
+		
+	},
+	{
+		"name": "Imola GP",
+		"author": "Res-Proyect",
+		"url": "",
+		"dimensions": "3200x2560",
+		"copyright": "Credits to Res-Proyect",
+		"collections": "Alonso"
+		
+	},
+	{
+		"name": "Imola GP",
+		"author": "Res-Proyect",
+		"url": "",
+		"dimensions": "3200x2560",
+		"copyright": "Credits to Res-Proyect",
+		"collections": "Alonso"
+		
+	},
+	{
+		"name": "Imola GP",
+		"author": "Res-Proyect",
+		"url": "",
+		"dimensions": "3200x2560",
+		"copyright": "Credits to Res-Proyect",
+		"collections": "Alonso"
+		
+	},
+	
 ]  
